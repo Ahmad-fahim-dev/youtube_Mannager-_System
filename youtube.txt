@@ -1,0 +1,74 @@
+[
+  {
+    "video": "Python Tutorial for Beginners",
+    "time": "25"
+  },
+  {
+    "video": "Advanced Flask Development",
+    "time": "45"
+  },
+  {
+    "video": "CSS Animations Masterclass",
+    "time": "35"
+  },
+  {
+    "video": "JavaScript ES6 Features",
+    "time": "30"
+  },
+  {
+    "video": "mincraft",
+    "time": "34min"
+  },
+  {
+    "video": "hi",
+    "time": "99min"
+  },
+  {
+    "video": "DON'T DIE - Before Watching This Video",
+    "time": "11",
+    "url": "https://youtu.be/YzJWMPMSzUo?si=SpfbLeAQZAh7YU72",
+    "download_path": "downloads\\DON'T DIE - Before Watching This Video.webm",
+    "video_id": "YzJWMPMSzUo",
+    "quality": "bestaudio"
+  },
+  {
+    "video": "DON'T DIE - Before Watching This Video",
+    "time": "11",
+    "url": "https://youtu.be/YzJWMPMSzUo?si=SpfbLeAQZAh7YU72",
+    "download_path": "downloads\\DON'T DIE - Before Watching This Video.webm",
+    "video_id": "YzJWMPMSzUo",
+    "quality": "best[height<=720]"
+  },
+  {
+    "video": "DON'T DIE - Before Watching This Video",
+    "time": "11",
+    "url": "https://youtu.be/YzJWMPMSzUo?si=SpfbLeAQZAh7YU72",
+    "download_path": "downloads\\DON'T DIE - Before Watching This Video.webm",
+    "video_id": "YzJWMPMSzUo",
+    "quality": "best[height<=720]"
+  },
+  {
+    "video": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+    "time": "4",
+    "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "download_path": "downloads\\Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).mp4",
+    "video_id": "dQw4w9WgXcQ",
+    "quality": "best[height<=720]"
+  },
+  {
+    "video": "DON'T DIE - Before Watching This Video",
+    "time": "11",
+    "url": "https://youtu.be/YzJWMPMSzUo?si=SpfbLeAQZAh7YU72",
+    "download_path": "downloads\\DON'T DIE - Before Watching This Video.mp4",
+    "video_id": "YzJWMPMSzUo",
+    "quality": "best[height<=720]"
+  },
+  {
+    "video": "DON'T DIE - Before Watching This Video",
+    "time": "11",
+    "url": "https://youtu.be/YzJWMPMSzUo?si=SpfbLeAQZAh7YU72",
+    "download_path": "downloads\\DON'T DIE - Before Watching This Video.mp4",
+    "video_id": "YzJWMPMSzUo",
+    "quality": "best[height<=720]"
+  }
+]
